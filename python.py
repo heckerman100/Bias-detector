@@ -2,7 +2,6 @@
 #Not 100% acurate
 
 
-
 #Bias words
 Their = 1
 I = 1
