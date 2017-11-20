@@ -1,3 +1,3 @@
 Bias detector
-Version 0.1
+Version 1.0
 By heckerman100
