@@ -50,6 +50,7 @@ Southside = 1
 Bluecollar = 1
 Innercity = 1
 Waiter = 1
+Nigga = 1
 
 #Original value
 Original_value = 0
@@ -105,8 +106,9 @@ App44 = Text.count('Southside')
 App45 = Text.count('Bluecollar')
 App46 = Text.count('Innercity')
 App47 = Text.count('Waiter')
+App48 = Text.count('Nigga')
 
-Applied_value = App1 + App2 + App3 + App4 + App5 + App6 + App7 + App8 + App9 + App10 + App11 + App12 + App13 + App14 + App15 + App16 + App17 + App18 + App19 + App20 + App21 + App22 + App23 + App24 + App25 + App26 + App27 + App28 + App29 + App30 + App31 + App32 + App33 + App34 + App35 + App36 + App37 + App38 + App39 + App40 + App41 + App42 + App43 + App44 + App45 + App46 + App47
+Applied_value = App1 + App2 + App3 + App4 + App5 + App6 + App7 + App8 + App9 + App10 + App11 + App12 + App13 + App14 + App15 + App16 + App17 + App18 + App19 + App20 + App21 + App22 + App23 + App24 + App25 + App26 + App27 + App28 + App29 + App30 + App31 + App32 + App33 + App34 + App35 + App36 + App37 + App38 + App39 + App40 + App41 + App42 + App43 + App44 + App45 + App46 + App47 + App48
 
 #Total
 Total = Original_value - Applied_value
