@@ -1,4 +1,4 @@
-#This program takes a paragraph of words and adds the numerical value of each word togethor to see if it is bais or not.
+#This program takes a paragraph of words and adds the numerical value of each word togethor to see if it is bias or not.
 #Not 100% acurate
 
 
